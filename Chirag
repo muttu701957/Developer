@@ -1,0 +1,7 @@
+Staging the Changes: Before committing, you need to use git add to stage the changes you want to save. This tells Git exactly which changes you want to include in the commit.
+
+Creating a Commit: When you run git commit, Git takes a snapshot of the staged changes and saves it as a new version in the local repository. You can think of a commit as a "checkpoint" that contains the current state of the files.
+
+Commit Message: Each commit must have a descriptive message that explains what changes were made. This message helps track the purpose of the commit later.
+
+Local Repository: The commit is stored in your local repository. It does not automatically push these changes to a remote repository (like GitHub or GitLab); for that, you need to use git push
