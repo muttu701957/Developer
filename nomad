@@ -1,0 +1,1 @@
+The domain name Flirt.com is owned by Grendall Investment, a corporate-backed entity based in Spain. Initially founded in 1995 as an online dating platform, Flirt.com has been acquired and merged into Grendall Investment's portfolio. The platform provides a range of services like chat rooms, video chatting, and profile creation for users looking to connect and date online​
