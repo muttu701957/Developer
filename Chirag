@@ -5,3 +5,4 @@ Creating a Commit: When you run git commit, Git takes a snapshot of the staged c
 Commit Message: Each commit must have a descriptive message that explains what changes were made. This message helps track the purpose of the commit later.
 
 Local Repository: The commit is stored in your local repository. It does not automatically push these changes to a remote repository (like GitHub or GitLab); for that, you need to use git push
+HELLO WORLD
